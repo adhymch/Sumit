@@ -12,6 +12,8 @@ public class Cohesion implements Metric {
     public double getResult(int Attr) {
         return coeCoh * Attr;
     }
+
+    //putri gendut banget kalah dpt 0
     
     /*public int getMetricVal(int Attr){
         return Attr;
